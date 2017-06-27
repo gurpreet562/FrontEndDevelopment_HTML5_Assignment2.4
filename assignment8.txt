@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+     <head>
+         <title>HTML Blog</title>
+               <style>
+                     header{
+                                  border-style:groove;
+                                  text-align:center;
+                                  padding:1em;
+                               }
+                    #one{
+                                 padding:60px 0;
+                                 position:absolute;
+                                 left:600px;
+                            }
+                    #two{
+                                 padding:60px 0;
+                                 position:absolute;
+                                 left:441px;
+                            }
+                 #three{
+                                 padding:60px 0;
+                                 position:absolute;
+                                 left:750px;
+                            }
+                  article{
+                                padding:240px 0px;
+                            }
+                  #write{
+                                position:absolute;
+                                left:200px;
+                            }
+                   #p1{
+                                line-height:0px;
+                          }
+            </style>
+                     </head>
+  <body>
+            <header>
+                    <a href="#">Home</a>&nbsp;&nbsp;
+                    <a href="#">About</a>&nbsp;&nbsp;
+                    <a href="#">Plan1</a>&nbsp;&nbsp;
+                    <a href="#">Plan2</a>&nbsp;&nbsp;
+                    <a href="#">Plan3</a>&nbsp;&nbsp;
+             </header>
+             <div>
+                   <div id="one">
+                   <img src="hand.png"></img>
+                   </div>
+                    <div id="two">
+                    <img src="hand.png"></img>
+                    </div>
+                    <div id="three">
+                    <img src="hand.png"></img>
+                    </div>
+              </div>
+              <article>
+                    <p >At Explore we specialise in small group adventure holidays,with over 500 trips on offer in 120 countries.We have a wide range of adventure travel options including walking and trekking tours,cycling tours </p>
+                    <p align="center" id="p1">polar voyages,family adventure holidays and much more.</p><br><br>
+                     <div id="write">Renowned for its rainforest jungles filled with bird and monkey species as well as its white sandy beaches and steaming volcanoes, Costa Rica in...</div>
+              </article>
+   </body>
+              </html>
